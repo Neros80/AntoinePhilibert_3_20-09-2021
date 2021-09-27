@@ -650,7 +650,7 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    font-weight: 400;
+    font-weight: 700;
     color: #575757!important;
 }
 
@@ -683,6 +683,7 @@ p {
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
+    font-size: 16px;
 }
 
 .h1 {
@@ -775,7 +776,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
